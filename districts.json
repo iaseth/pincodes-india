@@ -1,0 +1,3694 @@
+{
+	"districts": [
+		{
+			"stateName": "DELHI",
+			"districtName": "SOUTH EAST DELHI",
+			"pincodeStart": "110003",
+			"pincodeEnd": "110076"
+		},
+		{
+			"stateName": "DELHI",
+			"districtName": "NORTH DELHI",
+			"pincodeStart": "110036",
+			"pincodeEnd": "110054"
+		},
+		{
+			"stateName": "DELHI",
+			"districtName": "NORTH WEST DELHI",
+			"pincodeStart": "110040",
+			"pincodeEnd": "110086"
+		},
+		{
+			"stateName": "DELHI",
+			"districtName": "WEST DELHI",
+			"pincodeStart": "110046",
+			"pincodeEnd": "110046"
+		},
+		{
+			"stateName": "DELHI",
+			"districtName": "CENTRAL DELHI",
+			"pincodeStart": "110054",
+			"pincodeEnd": "110054"
+		},
+		{
+			"stateName": "DELHI",
+			"districtName": "SOUTH DELHI",
+			"pincodeStart": "110062",
+			"pincodeEnd": "110062"
+		},
+		{
+			"stateName": "DELHI",
+			"districtName": "SOUTH WEST DELHI",
+			"pincodeStart": "110071",
+			"pincodeEnd": "110071"
+		},
+		{
+			"stateName": "DELHI",
+			"districtName": "NORTH EAST DELHI",
+			"pincodeStart": "110090",
+			"pincodeEnd": "110090"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "FARIDABAD",
+			"pincodeStart": "121001",
+			"pincodeEnd": "121107"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "MAHENDRAGARH",
+			"pincodeStart": "122001",
+			"pincodeEnd": "123501"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "GURGAON",
+			"pincodeStart": "122001",
+			"pincodeEnd": "123401"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "REWARI",
+			"pincodeStart": "122105",
+			"pincodeEnd": "123501"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "AMBALA",
+			"pincodeStart": "123029",
+			"pincodeEnd": "135133"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "ROHTAK",
+			"pincodeStart": "124001",
+			"pincodeEnd": "124514"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "JHAJJAR",
+			"pincodeStart": "124021",
+			"pincodeEnd": "124508"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "HISAR",
+			"pincodeStart": "125001",
+			"pincodeEnd": "125121"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "FATEHABAD",
+			"pincodeStart": "125005",
+			"pincodeEnd": "125201"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "SIRSA",
+			"pincodeStart": "125047",
+			"pincodeEnd": "125201"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "JIND",
+			"pincodeStart": "126101",
+			"pincodeEnd": "126152"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "KARNAL",
+			"pincodeStart": "126102",
+			"pincodeEnd": "132157"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "BHIWANI",
+			"pincodeStart": "127021",
+			"pincodeEnd": "127312"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "SONIPAT",
+			"pincodeStart": "131001",
+			"pincodeEnd": "131409"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "PANIPAT",
+			"pincodeStart": "132101",
+			"pincodeEnd": "132145"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "YAMUNA NAGAR",
+			"pincodeStart": "133001",
+			"pincodeEnd": "135133"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "PANCHKULA",
+			"pincodeStart": "133004",
+			"pincodeEnd": "135004"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "KAITHAL",
+			"pincodeStart": "136020",
+			"pincodeEnd": "136117"
+		},
+		{
+			"stateName": "HARYANA",
+			"districtName": "KURUKSHETRA",
+			"pincodeStart": "136020",
+			"pincodeEnd": "136156"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "RUPNAGAR",
+			"pincodeStart": "140001",
+			"pincodeEnd": "160103"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "PATIALA",
+			"pincodeStart": "140201",
+			"pincodeEnd": "160104"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "FATEHGARH SAHIB",
+			"pincodeStart": "140402",
+			"pincodeEnd": "147301"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "LUDHIANA",
+			"pincodeStart": "140802",
+			"pincodeEnd": "148107"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "SANGRUR",
+			"pincodeStart": "141411",
+			"pincodeEnd": "148109"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "MOGA",
+			"pincodeStart": "142001",
+			"pincodeEnd": "152028"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "FIROZPUR",
+			"pincodeStart": "142042",
+			"pincodeEnd": "152121"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "AMRITSAR",
+			"pincodeStart": "143001",
+			"pincodeEnd": "143606"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "TARN TARAN",
+			"pincodeStart": "143002",
+			"pincodeEnd": "143601"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "GURDASPUR",
+			"pincodeStart": "143505",
+			"pincodeEnd": "146001"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "Pathankot",
+			"pincodeStart": "143514",
+			"pincodeEnd": "145101"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "JALANDHAR",
+			"pincodeStart": "144001",
+			"pincodeEnd": "144806"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "NAWANSHAHR",
+			"pincodeStart": "144029",
+			"pincodeEnd": "146115"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "KAPURTHALA",
+			"pincodeStart": "144037",
+			"pincodeEnd": "145023"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "HOSHIARPUR",
+			"pincodeStart": "144105",
+			"pincodeEnd": "146116"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "BARNALA",
+			"pincodeStart": "148020",
+			"pincodeEnd": "148109"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "BATHINDA",
+			"pincodeStart": "151001",
+			"pincodeEnd": "151510"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "MANSA",
+			"pincodeStart": "151104",
+			"pincodeEnd": "151510"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "MUKTSAR",
+			"pincodeStart": "151202",
+			"pincodeEnd": "152115"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "FARIDKOT",
+			"pincodeStart": "151202",
+			"pincodeEnd": "152025"
+		},
+		{
+			"stateName": "PUNJAB",
+			"districtName": "Fazilka",
+			"pincodeStart": "152002",
+			"pincodeEnd": "152132"
+		},
+		{
+			"stateName": "CHANDIGARH",
+			"districtName": "CHANDIGARH",
+			"pincodeStart": "140308",
+			"pincodeEnd": "160103"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "SHIMLA",
+			"pincodeStart": "171001",
+			"pincodeEnd": "173217"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "SOLAN",
+			"pincodeStart": "171102",
+			"pincodeEnd": "174103"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "SIRMAUR",
+			"pincodeStart": "171226",
+			"pincodeEnd": "173229"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "KULLU",
+			"pincodeStart": "172001",
+			"pincodeEnd": "175143"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "KINNAUR",
+			"pincodeStart": "172024",
+			"pincodeEnd": "172118"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "LAHUL & SPITI",
+			"pincodeStart": "172110",
+			"pincodeEnd": "175142"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "BILASPUR (HP)",
+			"pincodeStart": "174001",
+			"pincodeEnd": "177020"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "HAMIRPUR(HP)",
+			"pincodeStart": "174026",
+			"pincodeEnd": "177601"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "UNA",
+			"pincodeStart": "174301",
+			"pincodeEnd": "177220"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "MANDI",
+			"pincodeStart": "175001",
+			"pincodeEnd": "176090"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "KANGRA",
+			"pincodeStart": "175013",
+			"pincodeEnd": "177117"
+		},
+		{
+			"stateName": "HIMACHAL PRADESH",
+			"districtName": "CHAMBA",
+			"pincodeStart": "176207",
+			"pincodeEnd": "176326"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "JAMMU",
+			"pincodeStart": "180001",
+			"pincodeEnd": "185154"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "KATHUA",
+			"pincodeStart": "180012",
+			"pincodeEnd": "185154"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "UDHAMPUR",
+			"pincodeStart": "182101",
+			"pincodeEnd": "185203"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "DODA",
+			"pincodeStart": "182124",
+			"pincodeEnd": "184210"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "POONCH",
+			"pincodeStart": "185101",
+			"pincodeEnd": "185233"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "RAJAURI",
+			"pincodeStart": "185121",
+			"pincodeEnd": "185234"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "SRINAGAR",
+			"pincodeStart": "190001",
+			"pincodeEnd": "192401"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "BUDGAM",
+			"pincodeStart": "190007",
+			"pincodeEnd": "193411"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "PULWAMA",
+			"pincodeStart": "190012",
+			"pincodeEnd": "193303"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "ANANTHNAG",
+			"pincodeStart": "191202",
+			"pincodeEnd": "193303"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "BARAMULLA",
+			"pincodeStart": "192125",
+			"pincodeEnd": "193504"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "BANDIPUR",
+			"pincodeStart": "193121",
+			"pincodeEnd": "193504"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "KUPWARA",
+			"pincodeStart": "193221",
+			"pincodeEnd": "193303"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "LEH",
+			"pincodeStart": "194101",
+			"pincodeEnd": "194404"
+		},
+		{
+			"stateName": "JAMMU & KASHMIR",
+			"districtName": "KARGIL",
+			"pincodeStart": "194102",
+			"pincodeEnd": "194403"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "GHAZIABAD",
+			"pincodeStart": "201001",
+			"pincodeEnd": "245304"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "GAUTAM BUDDHA NAGAR",
+			"pincodeStart": "201002",
+			"pincodeEnd": "245304"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "ALIGARH",
+			"pincodeStart": "202001",
+			"pincodeEnd": "204216"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "HATHRAS",
+			"pincodeStart": "202002",
+			"pincodeEnd": "281405"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BULANDSHAHR",
+			"pincodeStart": "203001",
+			"pincodeEnd": "203412"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "MAINPURI",
+			"pincodeStart": "205001",
+			"pincodeEnd": "283207"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "FIROZABAD",
+			"pincodeStart": "205119",
+			"pincodeEnd": "283207"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "ETAWAH",
+			"pincodeStart": "206001",
+			"pincodeEnd": "206253"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "AURAIYA",
+			"pincodeStart": "206120",
+			"pincodeEnd": "206255"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "ETAH",
+			"pincodeStart": "207001",
+			"pincodeEnd": "207403"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "KANPUR NAGAR",
+			"pincodeStart": "208001",
+			"pincodeEnd": "209870"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "KANPUR DEHAT",
+			"pincodeStart": "208001",
+			"pincodeEnd": "209871"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "UNNAO",
+			"pincodeStart": "209115",
+			"pincodeEnd": "209881"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "AGRA",
+			"pincodeStart": "209401",
+			"pincodeEnd": "283202"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "FARRUKHABAD",
+			"pincodeStart": "209501",
+			"pincodeEnd": "209749"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "KANNAUJ",
+			"pincodeStart": "209622",
+			"pincodeEnd": "209747"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BANDA",
+			"pincodeStart": "210001",
+			"pincodeEnd": "210507"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "CHITRAKOOT",
+			"pincodeStart": "210001",
+			"pincodeEnd": "210507"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "HAMIRPUR",
+			"pincodeStart": "210001",
+			"pincodeEnd": "210507"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "MAHOBA",
+			"pincodeStart": "210125",
+			"pincodeEnd": "210507"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "ALLAHABAD",
+			"pincodeStart": "211001",
+			"pincodeEnd": "229413"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "KAUSHAMBI",
+			"pincodeStart": "211001",
+			"pincodeEnd": "229412"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "FATEHPUR",
+			"pincodeStart": "212601",
+			"pincodeEnd": "212665"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "VARANASI",
+			"pincodeStart": "221001",
+			"pincodeEnd": "232120"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "CHANDAULI",
+			"pincodeStart": "221008",
+			"pincodeEnd": "232120"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "SANT RAVIDAS NAGAR",
+			"pincodeStart": "221301",
+			"pincodeEnd": "221409"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "MAU",
+			"pincodeStart": "221601",
+			"pincodeEnd": "276406"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "AZAMGARH",
+			"pincodeStart": "221602",
+			"pincodeEnd": "276406"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BALLIA",
+			"pincodeStart": "221701",
+			"pincodeEnd": "277506"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "JAUNPUR",
+			"pincodeStart": "222001",
+			"pincodeEnd": "230201"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "SULTANPUR",
+			"pincodeStart": "222301",
+			"pincodeEnd": "228171"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "FAIZABAD",
+			"pincodeStart": "224001",
+			"pincodeEnd": "225305"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "AMBEDKAR NAGAR",
+			"pincodeStart": "224001",
+			"pincodeEnd": "224284"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BARABANKI",
+			"pincodeStart": "224119",
+			"pincodeEnd": "225416"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "LUCKNOW",
+			"pincodeStart": "226001",
+			"pincodeEnd": "226501"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "RAEBARELI",
+			"pincodeStart": "229001",
+			"pincodeEnd": "229802"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "PRATAPGARH",
+			"pincodeStart": "229408",
+			"pincodeEnd": "230503"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "MIRZAPUR",
+			"pincodeStart": "231001",
+			"pincodeEnd": "231501"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "SONBHADRA",
+			"pincodeStart": "231205",
+			"pincodeEnd": "272153"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "GHAZIPUR",
+			"pincodeStart": "232325",
+			"pincodeEnd": "275205"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "HARDOI",
+			"pincodeStart": "241001",
+			"pincodeEnd": "241407"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "SHAHJAHANPUR",
+			"pincodeStart": "241124",
+			"pincodeEnd": "242407"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BUDAUN",
+			"pincodeStart": "242021",
+			"pincodeEnd": "243751"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BAREILLY",
+			"pincodeStart": "243001",
+			"pincodeEnd": "262406"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "PILIBHIT",
+			"pincodeStart": "243122",
+			"pincodeEnd": "262406"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "MORADABAD",
+			"pincodeStart": "244001",
+			"pincodeEnd": "571439"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "JYOTIBA PHULE NAGAR",
+			"pincodeStart": "244102",
+			"pincodeEnd": "244927"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "RAMPUR",
+			"pincodeStart": "244225",
+			"pincodeEnd": "244928"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "MEERUT",
+			"pincodeStart": "245206",
+			"pincodeEnd": "250626"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BIJNOR",
+			"pincodeStart": "246701",
+			"pincodeEnd": "246764"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "SAHARANPUR",
+			"pincodeStart": "247001",
+			"pincodeEnd": "247670"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "MUZAFFARNAGAR",
+			"pincodeStart": "247771",
+			"pincodeEnd": "251327"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BAGPAT",
+			"pincodeStart": "250101",
+			"pincodeEnd": "250626"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "SITAPUR",
+			"pincodeStart": "261001",
+			"pincodeEnd": "261405"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "KHERI",
+			"pincodeStart": "261501",
+			"pincodeEnd": "271855"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "GONDA",
+			"pincodeStart": "271001",
+			"pincodeEnd": "271821"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BALRAMPUR",
+			"pincodeStart": "271003",
+			"pincodeEnd": "271861"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "SHRAWASTI",
+			"pincodeStart": "271201",
+			"pincodeEnd": "285126"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BASTI",
+			"pincodeStart": "271305",
+			"pincodeEnd": "272302"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "BAHRAICH",
+			"pincodeStart": "271801",
+			"pincodeEnd": "271904"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "SANT KABIR NAGAR",
+			"pincodeStart": "272002",
+			"pincodeEnd": "272271"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "SIDDHARTHNAGAR",
+			"pincodeStart": "272002",
+			"pincodeEnd": "272208"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "GORAKHPUR",
+			"pincodeStart": "273001",
+			"pincodeEnd": "273413"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "MAHARAJGANJ",
+			"pincodeStart": "273002",
+			"pincodeEnd": "273405"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "DEORIA",
+			"pincodeStart": "274001",
+			"pincodeEnd": "274808"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "KUSHINAGAR",
+			"pincodeStart": "274149",
+			"pincodeEnd": "274802"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "MATHURA",
+			"pincodeStart": "281001",
+			"pincodeEnd": "281504"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "JHANSI",
+			"pincodeStart": "284001",
+			"pincodeEnd": "285223"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "LALITPUR",
+			"pincodeStart": "284120",
+			"pincodeEnd": "285205"
+		},
+		{
+			"stateName": "UTTAR PRADESH",
+			"districtName": "JALAUN",
+			"pincodeStart": "284122",
+			"pincodeEnd": "285223"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "UDHAM SINGH NAGAR",
+			"pincodeStart": "244712",
+			"pincodeEnd": "263160"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "NAINITAL",
+			"pincodeStart": "244712",
+			"pincodeEnd": "263159"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "ALMORA",
+			"pincodeStart": "244715",
+			"pincodeEnd": "263680"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "PAURI GARHWAL",
+			"pincodeStart": "246001",
+			"pincodeEnd": "249306"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "RUDRAPRAYAG",
+			"pincodeStart": "246141",
+			"pincodeEnd": "246495"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "CHAMOLI",
+			"pincodeStart": "246401",
+			"pincodeEnd": "246488"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "HARIDWAR",
+			"pincodeStart": "246763",
+			"pincodeEnd": "251327"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "DEHRADUN",
+			"pincodeStart": "248001",
+			"pincodeEnd": "249205"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "TEHRI GARHWAL",
+			"pincodeStart": "249001",
+			"pincodeEnd": "249199"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "UTTARKASHI",
+			"pincodeStart": "249122",
+			"pincodeEnd": "249196"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "CHAMPAWAT",
+			"pincodeStart": "262309",
+			"pincodeEnd": "262580"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "PITHORAGARH",
+			"pincodeStart": "262501",
+			"pincodeEnd": "262580"
+		},
+		{
+			"stateName": "UTTARAKHAND",
+			"districtName": "BAGESHWAR",
+			"pincodeStart": "263601",
+			"pincodeEnd": "263679"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "ALWAR",
+			"pincodeStart": "301001",
+			"pincodeEnd": "321633"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "JAIPUR",
+			"pincodeStart": "302001",
+			"pincodeEnd": "303908"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "DAUSA",
+			"pincodeStart": "303001",
+			"pincodeEnd": "322240"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "TONK",
+			"pincodeStart": "304001",
+			"pincodeEnd": "323801"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "AJMER",
+			"pincodeStart": "305001",
+			"pincodeEnd": "305927"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "NAGAUR",
+			"pincodeStart": "305026",
+			"pincodeEnd": "342902"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "RAJSAMAND",
+			"pincodeStart": "305202",
+			"pincodeEnd": "313901"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "PALI",
+			"pincodeStart": "306001",
+			"pincodeEnd": "306912"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "SIROHI",
+			"pincodeStart": "307001",
+			"pincodeEnd": "343029"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "UDAIPUR",
+			"pincodeStart": "307025",
+			"pincodeEnd": "313906"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "JALOR",
+			"pincodeStart": "307029",
+			"pincodeEnd": "343049"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "BHILWARA",
+			"pincodeStart": "311001",
+			"pincodeEnd": "311806"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "CHITTORGARH",
+			"pincodeStart": "312001",
+			"pincodeEnd": "323307"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "DUNGARPUR",
+			"pincodeStart": "314001",
+			"pincodeEnd": "314804"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "BANSWARA",
+			"pincodeStart": "314036",
+			"pincodeEnd": "327801"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "BHARATPUR",
+			"pincodeStart": "321001",
+			"pincodeEnd": "328025"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "KARAULI",
+			"pincodeStart": "321610",
+			"pincodeEnd": "322255"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "SAWAI MADHOPUR",
+			"pincodeStart": "322001",
+			"pincodeEnd": "322704"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "BUNDI",
+			"pincodeStart": "323001",
+			"pincodeEnd": "323803"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "KOTA",
+			"pincodeStart": "324001",
+			"pincodeEnd": "326530"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "BARAN",
+			"pincodeStart": "325004",
+			"pincodeEnd": "326502"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "JHALAWAR",
+			"pincodeStart": "325221",
+			"pincodeEnd": "326516"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "DHOLPUR",
+			"pincodeStart": "328001",
+			"pincodeEnd": "328041"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "CHURU",
+			"pincodeStart": "331001",
+			"pincodeEnd": "334802"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "SIKAR",
+			"pincodeStart": "331024",
+			"pincodeEnd": "332742"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "JHUJHUNU",
+			"pincodeStart": "331025",
+			"pincodeEnd": "333801"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "BIKANER",
+			"pincodeStart": "331803",
+			"pincodeEnd": "334808"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "GANGANAGAR",
+			"pincodeStart": "335001",
+			"pincodeEnd": "335901"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "HANUMANGARH",
+			"pincodeStart": "335024",
+			"pincodeEnd": "335805"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "JODHPUR",
+			"pincodeStart": "342001",
+			"pincodeEnd": "345034"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "JAISALMER",
+			"pincodeStart": "342301",
+			"pincodeEnd": "345034"
+		},
+		{
+			"stateName": "RAJASTHAN",
+			"districtName": "BARMER",
+			"pincodeStart": "344001",
+			"pincodeEnd": "344801"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "RAJKOT",
+			"pincodeStart": "360001",
+			"pincodeEnd": "365480"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "JAMNAGAR",
+			"pincodeStart": "360035",
+			"pincodeEnd": "363655"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "BHAVNAGAR",
+			"pincodeStart": "360050",
+			"pincodeEnd": "365555"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "AMRELI",
+			"pincodeStart": "360050",
+			"pincodeEnd": "365660"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "SURENDRA NAGAR",
+			"pincodeStart": "360055",
+			"pincodeEnd": "382780"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "PORBANDAR",
+			"pincodeStart": "360490",
+			"pincodeEnd": "362650"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "JUNAGADH",
+			"pincodeStart": "360490",
+			"pincodeEnd": "365650"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "GANDHI NAGAR",
+			"pincodeStart": "363421",
+			"pincodeEnd": "382855"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "AHMEDABAD",
+			"pincodeStart": "363421",
+			"pincodeEnd": "382845"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "MORBI",
+			"pincodeStart": "363635",
+			"pincodeEnd": "363635"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "KACHCHH",
+			"pincodeStart": "370001",
+			"pincodeEnd": "370675"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "MAHESANA",
+			"pincodeStart": "382115",
+			"pincodeEnd": "384435"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "SABARKANTHA",
+			"pincodeStart": "383001",
+			"pincodeEnd": "383462"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "PATAN",
+			"pincodeStart": "384110",
+			"pincodeEnd": "385360"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "BANASKANTHA",
+			"pincodeStart": "385001",
+			"pincodeEnd": "385575"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "KHEDA",
+			"pincodeStart": "387001",
+			"pincodeEnd": "388550"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "ANAND",
+			"pincodeStart": "387115",
+			"pincodeEnd": "388640"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "PANCH MAHALS",
+			"pincodeStart": "388270",
+			"pincodeEnd": "391510"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "VADODARA",
+			"pincodeStart": "388710",
+			"pincodeEnd": "393130"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "DAHOD",
+			"pincodeStart": "389130",
+			"pincodeEnd": "389382"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "NARMADA",
+			"pincodeStart": "391110",
+			"pincodeEnd": "394810"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "BHARUCH",
+			"pincodeStart": "391810",
+			"pincodeEnd": "394810"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "SURAT",
+			"pincodeStart": "392150",
+			"pincodeEnd": "396510"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "THE DANGS",
+			"pincodeStart": "394710",
+			"pincodeEnd": "394730"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "NAVSARI",
+			"pincodeStart": "394730",
+			"pincodeEnd": "396590"
+		},
+		{
+			"stateName": "GUJARAT",
+			"districtName": "VALSAD",
+			"pincodeStart": "396001",
+			"pincodeEnd": "396385"
+		},
+		{
+			"stateName": "DAMAN & DIU",
+			"districtName": "DIU",
+			"pincodeStart": "362520",
+			"pincodeEnd": "362570"
+		},
+		{
+			"stateName": "DAMAN & DIU",
+			"districtName": "DAMAN",
+			"pincodeStart": "396210",
+			"pincodeEnd": "396220"
+		},
+		{
+			"stateName": "DADRA & NAGAR HAVELI",
+			"districtName": "DADRA & NAGAR HAVELI",
+			"pincodeStart": "396193",
+			"pincodeEnd": "396240"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "MUMBAI",
+			"pincodeStart": "400001",
+			"pincodeEnd": "400104"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "AHMED NAGAR",
+			"pincodeStart": "400003",
+			"pincodeEnd": "431105"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "AURANGABAD",
+			"pincodeStart": "400012",
+			"pincodeEnd": "431215"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "THANE",
+			"pincodeStart": "400601",
+			"pincodeEnd": "421605"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "RAIGARH(MH)",
+			"pincodeStart": "400702",
+			"pincodeEnd": "415213"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "PUNE",
+			"pincodeStart": "402301",
+			"pincodeEnd": "413802"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "SATARA",
+			"pincodeStart": "412206",
+			"pincodeEnd": "415715"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "SOLAPUR",
+			"pincodeStart": "413001",
+			"pincodeEnd": "416403"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "BEED",
+			"pincodeStart": "413207",
+			"pincodeEnd": "431530"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "OSMANABAD",
+			"pincodeStart": "413405",
+			"pincodeEnd": "413624"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "LATUR",
+			"pincodeStart": "413502",
+			"pincodeEnd": "431522"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "KOLHAPUR",
+			"pincodeStart": "415101",
+			"pincodeEnd": "416552"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "RATNAGIRI",
+			"pincodeStart": "415202",
+			"pincodeEnd": "416713"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "SANGLI",
+			"pincodeStart": "415301",
+			"pincodeEnd": "416437"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "SINDHUDURG",
+			"pincodeStart": "416510",
+			"pincodeEnd": "416813"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "NASHIK",
+			"pincodeStart": "422001",
+			"pincodeEnd": "424109"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "DHULE",
+			"pincodeStart": "424001",
+			"pincodeEnd": "425428"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "JALGAON",
+			"pincodeStart": "424101",
+			"pincodeEnd": "425524"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "NANDURBAR",
+			"pincodeStart": "425408",
+			"pincodeEnd": "425452"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "JALNA",
+			"pincodeStart": "431007",
+			"pincodeEnd": "431512"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "PARBHANI",
+			"pincodeStart": "431401",
+			"pincodeEnd": "431720"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "HINGOLI",
+			"pincodeStart": "431504",
+			"pincodeEnd": "431705"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "NANDED",
+			"pincodeStart": "431601",
+			"pincodeEnd": "431811"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "NAGPUR",
+			"pincodeStart": "440001",
+			"pincodeEnd": "441701"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "BHANDARA",
+			"pincodeStart": "441106",
+			"pincodeEnd": "441924"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "CHANDRAPUR",
+			"pincodeStart": "441205",
+			"pincodeEnd": "442918"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "GADCHIROLI",
+			"pincodeStart": "441207",
+			"pincodeEnd": "442919"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "GONDIA",
+			"pincodeStart": "441601",
+			"pincodeEnd": "441916"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "WARDHA",
+			"pincodeStart": "442001",
+			"pincodeEnd": "442307"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "AMRAVATI",
+			"pincodeStart": "442302",
+			"pincodeEnd": "444908"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "BULDHANA",
+			"pincodeStart": "443001",
+			"pincodeEnd": "444501"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "AKOLA",
+			"pincodeStart": "444001",
+			"pincodeEnd": "444802"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "WASHIM",
+			"pincodeStart": "444105",
+			"pincodeEnd": "444510"
+		},
+		{
+			"stateName": "MAHARASHTRA",
+			"districtName": "YAVATMAL",
+			"pincodeStart": "445001",
+			"pincodeEnd": "445402"
+		},
+		{
+			"stateName": "GOA",
+			"districtName": "NORTH GOA",
+			"pincodeStart": "403001",
+			"pincodeEnd": "403710"
+		},
+		{
+			"stateName": "GOA",
+			"districtName": "SOUTH GOA",
+			"pincodeStart": "403115",
+			"pincodeEnd": "403806"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "EAST NIMAR",
+			"pincodeStart": "450001",
+			"pincodeEnd": "451556"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "WEST NIMAR",
+			"pincodeStart": "450116",
+			"pincodeEnd": "451881"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "BARWANI",
+			"pincodeStart": "451221",
+			"pincodeEnd": "451881"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "INDORE",
+			"pincodeStart": "452001",
+			"pincodeEnd": "455227"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "DEWAS",
+			"pincodeStart": "452016",
+			"pincodeEnd": "456770"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "DHAR",
+			"pincodeStart": "453115",
+			"pincodeEnd": "455001"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "UJJAIN",
+			"pincodeStart": "453551",
+			"pincodeEnd": "465550"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "SHAJAPUR",
+			"pincodeStart": "456337",
+			"pincodeEnd": "465550"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "RATLAM",
+			"pincodeStart": "457001",
+			"pincodeEnd": "457993"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "JHABUA",
+			"pincodeStart": "457001",
+			"pincodeEnd": "457993"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "MANDSAUR",
+			"pincodeStart": "457339",
+			"pincodeEnd": "458990"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "NEEMUCH",
+			"pincodeStart": "458110",
+			"pincodeEnd": "458664"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "BETUL",
+			"pincodeStart": "460001",
+			"pincodeEnd": "461441"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "CHHINDWARA",
+			"pincodeStart": "460110",
+			"pincodeEnd": "480559"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "HOSHANGABAD",
+			"pincodeStart": "461001",
+			"pincodeEnd": "487221"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "HARDA",
+			"pincodeStart": "461111",
+			"pincodeEnd": "461441"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "NARSINGHPUR",
+			"pincodeStart": "461771",
+			"pincodeEnd": "487881"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "BHOPAL",
+			"pincodeStart": "462001",
+			"pincodeEnd": "464993"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "RAISEN",
+			"pincodeStart": "462046",
+			"pincodeEnd": "464993"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "VIDISHA",
+			"pincodeStart": "464001",
+			"pincodeEnd": "464661"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "SAGAR",
+			"pincodeStart": "464240",
+			"pincodeEnd": "470771"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "RAJGARH",
+			"pincodeStart": "465661",
+			"pincodeEnd": "465697"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "SEHORE",
+			"pincodeStart": "466001",
+			"pincodeEnd": "466665"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "DAMOH",
+			"pincodeStart": "470051",
+			"pincodeEnd": "470881"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "CHHATARPUR",
+			"pincodeStart": "471001",
+			"pincodeEnd": "472115"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "PANNA",
+			"pincodeStart": "471405",
+			"pincodeEnd": "488448"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "TIKAMGARH",
+			"pincodeStart": "472001",
+			"pincodeEnd": "472447"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "GUNA",
+			"pincodeStart": "473001",
+			"pincodeEnd": "473885"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "SHIVPURI",
+			"pincodeStart": "473101",
+			"pincodeEnd": "473995"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "GWALIOR",
+			"pincodeStart": "474001",
+			"pincodeEnd": "475686"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "DATIA",
+			"pincodeStart": "475001",
+			"pincodeEnd": "475686"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "MORENA",
+			"pincodeStart": "476001",
+			"pincodeEnd": "477557"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "BHIND",
+			"pincodeStart": "476219",
+			"pincodeEnd": "477660"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "SHEOPUR",
+			"pincodeStart": "476332",
+			"pincodeEnd": "477446"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "SEONI",
+			"pincodeStart": "480661",
+			"pincodeEnd": "481995"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "BALAGHAT",
+			"pincodeStart": "480661",
+			"pincodeEnd": "481885"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "DINDORI",
+			"pincodeStart": "480886",
+			"pincodeEnd": "481995"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "MANDLA",
+			"pincodeStart": "481102",
+			"pincodeEnd": "481998"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "JABALPUR",
+			"pincodeStart": "482001",
+			"pincodeEnd": "483336"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "KATNI",
+			"pincodeStart": "483220",
+			"pincodeEnd": "483990"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "SATNA",
+			"pincodeStart": "483775",
+			"pincodeEnd": "486556"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "SHAHDOL",
+			"pincodeStart": "484001",
+			"pincodeEnd": "486661"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "UMARIA",
+			"pincodeStart": "484001",
+			"pincodeEnd": "486775"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "ANUPPUR",
+			"pincodeStart": "484113",
+			"pincodeEnd": "484887"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "SIDHI",
+			"pincodeStart": "484664",
+			"pincodeEnd": "486892"
+		},
+		{
+			"stateName": "MADHYA PRADESH",
+			"districtName": "REWA",
+			"pincodeStart": "485221",
+			"pincodeEnd": "486556"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "DURG",
+			"pincodeStart": "490001",
+			"pincodeEnd": "491993"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "RAJNANDGAON",
+			"pincodeStart": "491001",
+			"pincodeEnd": "491995"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "KAWARDHA",
+			"pincodeStart": "491336",
+			"pincodeEnd": "491995"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "RAIPUR",
+			"pincodeStart": "492001",
+			"pincodeEnd": "493996"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "DHAMTARI",
+			"pincodeStart": "492109",
+			"pincodeEnd": "494347"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "MAHASAMUND",
+			"pincodeStart": "492112",
+			"pincodeEnd": "493992"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "BASTAR",
+			"pincodeStart": "494001",
+			"pincodeEnd": "494661"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "BIJAPUR",
+			"pincodeStart": "494001",
+			"pincodeEnd": "494777"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "KANKER",
+			"pincodeStart": "494010",
+			"pincodeEnd": "494777"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "DANTEWADA",
+			"pincodeStart": "494111",
+			"pincodeEnd": "494776"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "NARAYANPUR",
+			"pincodeStart": "494230",
+			"pincodeEnd": "494777"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "BILASPUR",
+			"pincodeStart": "495001",
+			"pincodeEnd": "495687"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "JANJGIR-CHAMPA",
+			"pincodeStart": "495115",
+			"pincodeEnd": "495695"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "KORBA",
+			"pincodeStart": "495119",
+			"pincodeEnd": "495692"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "RAIGARH",
+			"pincodeStart": "496001",
+			"pincodeEnd": "496665"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "JASHPUR",
+			"pincodeStart": "496113",
+			"pincodeEnd": "497118"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "SURGUJA",
+			"pincodeStart": "496223",
+			"pincodeEnd": "497449"
+		},
+		{
+			"stateName": "CHATTISGARH",
+			"districtName": "KORIYA",
+			"pincodeStart": "497119",
+			"pincodeEnd": "497778"
+		},
+		{
+			"stateName": "TELANGANA",
+			"districtName": "HYDERABAD",
+			"pincodeStart": "500001",
+			"pincodeEnd": "500107"
+		},
+		{
+			"stateName": "TELANGANA",
+			"districtName": "K.V.RANGAREDDY",
+			"pincodeStart": "500005",
+			"pincodeEnd": "509410"
+		},
+		{
+			"stateName": "TELANGANA",
+			"districtName": "MEDAK",
+			"pincodeStart": "502001",
+			"pincodeEnd": "502381"
+		},
+		{
+			"stateName": "TELANGANA",
+			"districtName": "NIZAMABAD",
+			"pincodeStart": "502371",
+			"pincodeEnd": "505325"
+		},
+		{
+			"stateName": "TELANGANA",
+			"districtName": "ADILABAD",
+			"pincodeStart": "504001",
+			"pincodeEnd": "504346"
+		},
+		{
+			"stateName": "TELANGANA",
+			"districtName": "KARIM NAGAR",
+			"pincodeStart": "505001",
+			"pincodeEnd": "506169"
+		},
+		{
+			"stateName": "TELANGANA",
+			"districtName": "WARANGAL",
+			"pincodeStart": "506001",
+			"pincodeEnd": "506391"
+		},
+		{
+			"stateName": "TELANGANA",
+			"districtName": "KHAMMAM",
+			"pincodeStart": "507001",
+			"pincodeEnd": "533352"
+		},
+		{
+			"stateName": "TELANGANA",
+			"districtName": "NALGONDA",
+			"pincodeStart": "508001",
+			"pincodeEnd": "508377"
+		},
+		{
+			"stateName": "TELANGANA",
+			"districtName": "MAHABUB NAGAR",
+			"pincodeStart": "509001",
+			"pincodeEnd": "509412"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "ANANTHAPUR",
+			"pincodeStart": "515001",
+			"pincodeEnd": "516464"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "CUDDAPAH",
+			"pincodeStart": "515465",
+			"pincodeEnd": "516505"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "CHITTOOR",
+			"pincodeStart": "517001",
+			"pincodeEnd": "635121"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "KURNOOL",
+			"pincodeStart": "518001",
+			"pincodeEnd": "518674"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "KRISHNA",
+			"pincodeStart": "520001",
+			"pincodeEnd": "534281"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "WEST GODAVARI",
+			"pincodeStart": "521105",
+			"pincodeEnd": "534475"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "GUNTUR",
+			"pincodeStart": "522001",
+			"pincodeEnd": "522663"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "PRAKASAM",
+			"pincodeStart": "523001",
+			"pincodeEnd": "523373"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "NELLORE",
+			"pincodeStart": "524001",
+			"pincodeEnd": "524421"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "VISAKHAPATNAM",
+			"pincodeStart": "530001",
+			"pincodeEnd": "535273"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "VIZIANAGARAM",
+			"pincodeStart": "531162",
+			"pincodeEnd": "535594"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "SRIKAKULAM",
+			"pincodeStart": "532001",
+			"pincodeEnd": "535557"
+		},
+		{
+			"stateName": "ANDHRA PRADESH",
+			"districtName": "EAST GODAVARI",
+			"pincodeStart": "533001",
+			"pincodeEnd": "534315"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "VELLORE",
+			"pincodeStart": "517401",
+			"pincodeEnd": "635901"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "CHENNAI",
+			"pincodeStart": "600001",
+			"pincodeEnd": "600118"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "KANCHIPURAM",
+			"pincodeStart": "600016",
+			"pincodeEnd": "631606"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "TIRUVALLUR",
+			"pincodeStart": "600019",
+			"pincodeEnd": "631604"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "VILLUPURAM",
+			"pincodeStart": "604001",
+			"pincodeEnd": "636112"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "TIRUVANNAMALAI",
+			"pincodeStart": "604401",
+			"pincodeEnd": "635703"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "CUDDALORE",
+			"pincodeStart": "605007",
+			"pincodeEnd": "608801"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "NAGAPATTINAM",
+			"pincodeStart": "608002",
+			"pincodeEnd": "614810"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "ARIYALUR",
+			"pincodeStart": "608703",
+			"pincodeEnd": "621851"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "THANJAVUR",
+			"pincodeStart": "609204",
+			"pincodeEnd": "622304"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "TIRUVARUR",
+			"pincodeStart": "609403",
+			"pincodeEnd": "614903"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "TIRUCHIRAPPALLI",
+			"pincodeStart": "613102",
+			"pincodeEnd": "639115"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "PUDUKKOTTAI",
+			"pincodeStart": "613301",
+			"pincodeEnd": "630307"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "NAMAKKAL",
+			"pincodeStart": "621003",
+			"pincodeEnd": "638183"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "PERAMBALUR",
+			"pincodeStart": "621101",
+			"pincodeEnd": "621717"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "SALEM",
+			"pincodeStart": "621110",
+			"pincodeEnd": "638183"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "KARUR",
+			"pincodeStart": "621301",
+			"pincodeEnd": "639207"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "SIVAGANGA",
+			"pincodeStart": "621308",
+			"pincodeEnd": "630713"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "RAMANATHAPURAM",
+			"pincodeStart": "623115",
+			"pincodeEnd": "630312"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "VIRUDHUNAGAR",
+			"pincodeStart": "623135",
+			"pincodeEnd": "630611"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "DINDIGUL",
+			"pincodeStart": "624001",
+			"pincodeEnd": "642113"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "MADURAI",
+			"pincodeStart": "624401",
+			"pincodeEnd": "630606"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "TIRUPPUR",
+			"pincodeStart": "624622",
+			"pincodeEnd": "642207"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "THENI",
+			"pincodeStart": "625203",
+			"pincodeEnd": "625605"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "TUTICORIN",
+			"pincodeStart": "626202",
+			"pincodeEnd": "628952"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "TIRUNELVELI",
+			"pincodeStart": "627001",
+			"pincodeEnd": "628809"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "KANYAKUMARI",
+			"pincodeStart": "629001",
+			"pincodeEnd": "629901"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "KRISHNAGIRI",
+			"pincodeStart": "635001",
+			"pincodeEnd": "636902"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "DHARMAPURI",
+			"pincodeStart": "635002",
+			"pincodeEnd": "636906"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "ERODE",
+			"pincodeStart": "638001",
+			"pincodeEnd": "641697"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "COIMBATORE",
+			"pincodeStart": "638401",
+			"pincodeEnd": "642207"
+		},
+		{
+			"stateName": "TAMIL NADU",
+			"districtName": "NILGIRIS",
+			"pincodeStart": "638451",
+			"pincodeEnd": "643253"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "BANGALORE",
+			"pincodeStart": "560001",
+			"pincodeEnd": "562163"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "BANGALORE RURAL",
+			"pincodeStart": "560049",
+			"pincodeEnd": "562164"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "RAMANAGAR",
+			"pincodeStart": "561101",
+			"pincodeEnd": "562161"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "TUMKUR",
+			"pincodeStart": "561202",
+			"pincodeEnd": "572228"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "CHIKKABALLAPUR",
+			"pincodeStart": "561206",
+			"pincodeEnd": "563159"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "KOLAR",
+			"pincodeStart": "561207",
+			"pincodeEnd": "563162"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "Mysuru",
+			"pincodeStart": "570001",
+			"pincodeEnd": "571617"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "CHAMRAJNAGAR",
+			"pincodeStart": "571109",
+			"pincodeEnd": "571490"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "KODAGU",
+			"pincodeStart": "571201",
+			"pincodeEnd": "574314"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "MANDYA",
+			"pincodeStart": "571401",
+			"pincodeEnd": "571812"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "HASSAN",
+			"pincodeStart": "573101",
+			"pincodeEnd": "573225"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "CHICKMAGALUR",
+			"pincodeStart": "573144",
+			"pincodeEnd": "577550"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "UDUPI",
+			"pincodeStart": "574101",
+			"pincodeEnd": "576283"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "DAKSHINA KANNADA",
+			"pincodeStart": "574107",
+			"pincodeEnd": "576121"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "DAVANGARE",
+			"pincodeStart": "577001",
+			"pincodeEnd": "583214"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "SHIMOGA",
+			"pincodeStart": "577115",
+			"pincodeEnd": "577453"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "CHITRADURGA",
+			"pincodeStart": "577501",
+			"pincodeEnd": "577599"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "DHARWARD",
+			"pincodeStart": "580001",
+			"pincodeEnd": "582208"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "HAVERI",
+			"pincodeStart": "581101",
+			"pincodeEnd": "583217"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "GADAG",
+			"pincodeStart": "581118",
+			"pincodeEnd": "582211"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "UTTARA KANNADA",
+			"pincodeStart": "581121",
+			"pincodeEnd": "581453"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "BELGAUM",
+			"pincodeStart": "581453",
+			"pincodeEnd": "591345"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "BELLARY",
+			"pincodeStart": "583101",
+			"pincodeEnd": "583276"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "KOPPAL",
+			"pincodeStart": "583226",
+			"pincodeEnd": "583285"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "RAICHUR",
+			"pincodeStart": "584101",
+			"pincodeEnd": "584203"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "GULBARGA",
+			"pincodeStart": "585101",
+			"pincodeEnd": "585355"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "BIDAR",
+			"pincodeStart": "585226",
+			"pincodeEnd": "585444"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "BIJAPUR",
+			"pincodeStart": "586101",
+			"pincodeEnd": "587117"
+		},
+		{
+			"stateName": "KARNATAKA",
+			"districtName": "BAGALKOT",
+			"pincodeStart": "586113",
+			"pincodeEnd": "587330"
+		},
+		{
+			"stateName": "PONDICHERRY",
+			"districtName": "PONDICHERRY",
+			"pincodeStart": "605001",
+			"pincodeEnd": "607403"
+		},
+		{
+			"stateName": "PONDICHERRY",
+			"districtName": "KARAIKAL",
+			"pincodeStart": "609601",
+			"pincodeEnd": "609609"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "KANNUR",
+			"pincodeStart": "670001",
+			"pincodeEnd": "673316"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "KASARGOD",
+			"pincodeStart": "670511",
+			"pincodeEnd": "671552"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "WAYANAD",
+			"pincodeStart": "670644",
+			"pincodeEnd": "673596"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "KOZHIKODE",
+			"pincodeStart": "673001",
+			"pincodeEnd": "673661"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "MALAPPURAM",
+			"pincodeStart": "673314",
+			"pincodeEnd": "679591"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "PALAKKAD",
+			"pincodeStart": "678001",
+			"pincodeEnd": "679554"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "THRISSUR",
+			"pincodeStart": "679105",
+			"pincodeEnd": "680751"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "ERNAKULAM",
+			"pincodeStart": "680667",
+			"pincodeEnd": "686693"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "IDUKKI",
+			"pincodeStart": "685501",
+			"pincodeEnd": "686514"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "KOTTAYAM",
+			"pincodeStart": "686001",
+			"pincodeEnd": "686653"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "ALAPPUZHA",
+			"pincodeStart": "686102",
+			"pincodeEnd": "690572"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "PATHANAMTHITTA",
+			"pincodeStart": "686510",
+			"pincodeEnd": "691556"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "KOLLAM",
+			"pincodeStart": "689695",
+			"pincodeEnd": "695562"
+		},
+		{
+			"stateName": "KERALA",
+			"districtName": "THIRUVANANTHAPURAM",
+			"pincodeStart": "691574",
+			"pincodeEnd": "695615"
+		},
+		{
+			"stateName": "LAKSHADWEEP",
+			"districtName": "LAKSHADWEEP",
+			"pincodeStart": "682551",
+			"pincodeEnd": "682559"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "KOLKATA",
+			"pincodeStart": "700001",
+			"pincodeEnd": "700108"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "SOUTH 24 PARGANAS",
+			"pincodeStart": "700039",
+			"pincodeEnd": "743613"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "NORTH 24 PARGANAS",
+			"pincodeStart": "700048",
+			"pincodeEnd": "743711"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "HOWRAH",
+			"pincodeStart": "711101",
+			"pincodeEnd": "711414"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "HOOGHLY",
+			"pincodeStart": "711410",
+			"pincodeEnd": "712706"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "BARDHAMAN",
+			"pincodeStart": "712134",
+			"pincodeEnd": "741319"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "MURSHIDABAD",
+			"pincodeStart": "713123",
+			"pincodeEnd": "742409"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "WEST MIDNAPORE",
+			"pincodeStart": "721101",
+			"pincodeEnd": "721641"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "EAST MIDNAPORE",
+			"pincodeStart": "721125",
+			"pincodeEnd": "721659"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "BANKURA",
+			"pincodeStart": "722101",
+			"pincodeEnd": "722208"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "Purulia",
+			"pincodeStart": "723101",
+			"pincodeEnd": "723215"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "BIRBHUM",
+			"pincodeStart": "731101",
+			"pincodeEnd": "731304"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "MALDA",
+			"pincodeStart": "732101",
+			"pincodeEnd": "733142"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "SOUTH DINAJPUR",
+			"pincodeStart": "733101",
+			"pincodeEnd": "733207"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "NORTH DINAJPUR",
+			"pincodeStart": "733121",
+			"pincodeEnd": "733215"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "NADIA",
+			"pincodeStart": "733129",
+			"pincodeEnd": "741509"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "JALPAIGURI",
+			"pincodeStart": "734001",
+			"pincodeEnd": "736208"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "DARJILING",
+			"pincodeStart": "734001",
+			"pincodeEnd": "735231"
+		},
+		{
+			"stateName": "WEST BENGAL",
+			"districtName": "COOCH BEHAR",
+			"pincodeStart": "735101",
+			"pincodeEnd": "736207"
+		},
+		{
+			"stateName": "SIKKIM",
+			"districtName": "EAST SIKKIM",
+			"pincodeStart": "737101",
+			"pincodeEnd": "737139"
+		},
+		{
+			"stateName": "SIKKIM",
+			"districtName": "SOUTH SIKKIM",
+			"pincodeStart": "737102",
+			"pincodeEnd": "737139"
+		},
+		{
+			"stateName": "SIKKIM",
+			"districtName": "NORTH SIKKIM",
+			"pincodeStart": "737107",
+			"pincodeEnd": "737120"
+		},
+		{
+			"stateName": "SIKKIM",
+			"districtName": "WEST SIKKIM",
+			"pincodeStart": "737111",
+			"pincodeEnd": "737134"
+		},
+		{
+			"stateName": "ANDAMAN & NICOBAR ISLANDS",
+			"districtName": "SOUTH ANDAMAN",
+			"pincodeStart": "744101",
+			"pincodeEnd": "744211"
+		},
+		{
+			"stateName": "ANDAMAN & NICOBAR ISLANDS",
+			"districtName": "NORTH AND MIDDLE ANDAMAN",
+			"pincodeStart": "744201",
+			"pincodeEnd": "744210"
+		},
+		{
+			"stateName": "ANDAMAN & NICOBAR ISLANDS",
+			"districtName": "NICOBAR",
+			"pincodeStart": "744301",
+			"pincodeEnd": "744304"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "KHORDA",
+			"pincodeStart": "751001",
+			"pincodeEnd": "754012"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "PURI",
+			"pincodeStart": "751002",
+			"pincodeEnd": "754004"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "NAYAGARH",
+			"pincodeStart": "752001",
+			"pincodeEnd": "752094"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "CUTTACK",
+			"pincodeStart": "752103",
+			"pincodeEnd": "755026"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "JAGATSINGHAPUR",
+			"pincodeStart": "754022",
+			"pincodeEnd": "754294"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "JAJAPUR",
+			"pincodeStart": "754023",
+			"pincodeEnd": "758044"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "KENDRAPARA",
+			"pincodeStart": "754103",
+			"pincodeEnd": "755061"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "KENDUJHAR",
+			"pincodeStart": "755019",
+			"pincodeEnd": "758087"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "BALESWAR",
+			"pincodeStart": "756001",
+			"pincodeEnd": "756182"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "MAYURBHANJ",
+			"pincodeStart": "756028",
+			"pincodeEnd": "757107"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "BHADRAK",
+			"pincodeStart": "756046",
+			"pincodeEnd": "756181"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "DHENKANAL",
+			"pincodeStart": "759001",
+			"pincodeEnd": "759146"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "ANGUL",
+			"pincodeStart": "759022",
+			"pincodeEnd": "759148"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "GANJAM",
+			"pincodeStart": "760001",
+			"pincodeEnd": "761217"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "GAJAPATI",
+			"pincodeStart": "761005",
+			"pincodeEnd": "761217"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "KANDHAMAL",
+			"pincodeStart": "761125",
+			"pincodeEnd": "762112"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "BOUDH",
+			"pincodeStart": "762002",
+			"pincodeEnd": "762030"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "KORAPUT",
+			"pincodeStart": "763001",
+			"pincodeEnd": "765020"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "RAYAGADA",
+			"pincodeStart": "764027",
+			"pincodeEnd": "765034"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "MALKANGIRI",
+			"pincodeStart": "764040",
+			"pincodeEnd": "764087"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "NABARANGAPUR",
+			"pincodeStart": "764049",
+			"pincodeEnd": "765017"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "KALAHANDI",
+			"pincodeStart": "766001",
+			"pincodeEnd": "766110"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "NUAPADA",
+			"pincodeStart": "766011",
+			"pincodeEnd": "766118"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "BALANGIR",
+			"pincodeStart": "767001",
+			"pincodeEnd": "767071"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "SONAPUR",
+			"pincodeStart": "767016",
+			"pincodeEnd": "767068"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "SAMBALPUR",
+			"pincodeStart": "768001",
+			"pincodeEnd": "768228"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "BARGARH",
+			"pincodeStart": "768027",
+			"pincodeEnd": "768228"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "JHARSUGUDA",
+			"pincodeStart": "768029",
+			"pincodeEnd": "768234"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "DEBAGARH",
+			"pincodeStart": "768033",
+			"pincodeEnd": "768228"
+		},
+		{
+			"stateName": "ODISHA",
+			"districtName": "SUNDERGARH",
+			"pincodeStart": "769001",
+			"pincodeEnd": "770076"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "KAMRUP",
+			"pincodeStart": "781001",
+			"pincodeEnd": "782403"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "NALBARI",
+			"pincodeStart": "781126",
+			"pincodeEnd": "781378"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "BARPETA",
+			"pincodeStart": "781301",
+			"pincodeEnd": "781375"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "NAGAON",
+			"pincodeStart": "782001",
+			"pincodeEnd": "782485"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "KARBI ANGLONG",
+			"pincodeStart": "782003",
+			"pincodeEnd": "782490"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "MARIGAON",
+			"pincodeStart": "782103",
+			"pincodeEnd": "782446"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "GOALPARA",
+			"pincodeStart": "783101",
+			"pincodeEnd": "783392"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "BONGAIGAON",
+			"pincodeStart": "783125",
+			"pincodeEnd": "783394"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "DHUBRI",
+			"pincodeStart": "783127",
+			"pincodeEnd": "783388"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "KOKRAJHAR",
+			"pincodeStart": "783127",
+			"pincodeEnd": "783394"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "SONITPUR",
+			"pincodeStart": "784001",
+			"pincodeEnd": "784529"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "DARRANG",
+			"pincodeStart": "784025",
+			"pincodeEnd": "784529"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "LAKHIMPUR",
+			"pincodeStart": "784160",
+			"pincodeEnd": "787110"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "DHEMAJI",
+			"pincodeStart": "784161",
+			"pincodeEnd": "787110"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "JORHAT",
+			"pincodeStart": "785001",
+			"pincodeEnd": "785705"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "SIBSAGAR",
+			"pincodeStart": "785101",
+			"pincodeEnd": "785705"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "GOLAGHAT",
+			"pincodeStart": "785101",
+			"pincodeEnd": "785705"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "DIBRUGARH",
+			"pincodeStart": "785675",
+			"pincodeEnd": "787055"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "TINSUKIA",
+			"pincodeStart": "786125",
+			"pincodeEnd": "786601"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "CACHAR",
+			"pincodeStart": "788001",
+			"pincodeEnd": "788832"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "HAILAKANDI",
+			"pincodeStart": "788003",
+			"pincodeEnd": "788818"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "KARIMGANJ",
+			"pincodeStart": "788026",
+			"pincodeEnd": "788817"
+		},
+		{
+			"stateName": "ASSAM",
+			"districtName": "NORTH CACHAR HILLS",
+			"pincodeStart": "788107",
+			"pincodeEnd": "788931"
+		},
+		{
+			"stateName": "MEGHALAYA",
+			"districtName": "RI BHOI",
+			"pincodeStart": "781029",
+			"pincodeEnd": "794104"
+		},
+		{
+			"stateName": "MEGHALAYA",
+			"districtName": "WEST KHASI HILLS",
+			"pincodeStart": "781129",
+			"pincodeEnd": "794114"
+		},
+		{
+			"stateName": "MEGHALAYA",
+			"districtName": "EAST GARO HILLS",
+			"pincodeStart": "783122",
+			"pincodeEnd": "794115"
+		},
+		{
+			"stateName": "MEGHALAYA",
+			"districtName": "EAST KHASI HILLS",
+			"pincodeStart": "793001",
+			"pincodeEnd": "794115"
+		},
+		{
+			"stateName": "MEGHALAYA",
+			"districtName": "JAINTIA HILLS",
+			"pincodeStart": "793010",
+			"pincodeEnd": "793210"
+		},
+		{
+			"stateName": "MEGHALAYA",
+			"districtName": "WEST GARO HILLS",
+			"pincodeStart": "793103",
+			"pincodeEnd": "794115"
+		},
+		{
+			"stateName": "MEGHALAYA",
+			"districtName": "SOUTH GARO HILLS",
+			"pincodeStart": "793106",
+			"pincodeEnd": "794114"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "WEST KAMENG",
+			"pincodeStart": "790001",
+			"pincodeEnd": "790116"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "EAST KAMENG",
+			"pincodeStart": "790102",
+			"pincodeEnd": "790103"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "TAWANG",
+			"pincodeStart": "790104",
+			"pincodeEnd": "790106"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "WEST SIANG",
+			"pincodeStart": "791001",
+			"pincodeEnd": "791125"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "UPPER SIANG",
+			"pincodeStart": "791002",
+			"pincodeEnd": "791105"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "EAST SIANG",
+			"pincodeStart": "791102",
+			"pincodeEnd": "791104"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "PAPUM PARE",
+			"pincodeStart": "791109",
+			"pincodeEnd": "791123"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "KURUNG KUMEY",
+			"pincodeStart": "791118",
+			"pincodeEnd": "791120"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "LOWER SUBANSIRI",
+			"pincodeStart": "791118",
+			"pincodeEnd": "791120"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "UPPER SUBANSIRI",
+			"pincodeStart": "791118",
+			"pincodeEnd": "791122"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "LOHIT",
+			"pincodeStart": "792001",
+			"pincodeEnd": "792111"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "CHANGLANG",
+			"pincodeStart": "792055",
+			"pincodeEnd": "792123"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "DIBANG VALLEY",
+			"pincodeStart": "792101",
+			"pincodeEnd": "792110"
+		},
+		{
+			"stateName": "ARUNACHAL PRADESH",
+			"districtName": "TIRAP",
+			"pincodeStart": "792129",
+			"pincodeEnd": "792131"
+		},
+		{
+			"stateName": "MANIPUR",
+			"districtName": "IMPHAL WEST",
+			"pincodeStart": "795001",
+			"pincodeEnd": "795146"
+		},
+		{
+			"stateName": "MANIPUR",
+			"districtName": "IMPHAL EAST",
+			"pincodeStart": "795001",
+			"pincodeEnd": "795150"
+		},
+		{
+			"stateName": "MANIPUR",
+			"districtName": "SENAPATI",
+			"pincodeStart": "795002",
+			"pincodeEnd": "795159"
+		},
+		{
+			"stateName": "MANIPUR",
+			"districtName": "BISHNUPUR",
+			"pincodeStart": "795007",
+			"pincodeEnd": "795149"
+		},
+		{
+			"stateName": "MANIPUR",
+			"districtName": "THOUBAL",
+			"pincodeStart": "795009",
+			"pincodeEnd": "795149"
+		},
+		{
+			"stateName": "MANIPUR",
+			"districtName": "UKHRUL",
+			"pincodeStart": "795010",
+			"pincodeEnd": "795149"
+		},
+		{
+			"stateName": "MANIPUR",
+			"districtName": "CHANDEL",
+			"pincodeStart": "795015",
+			"pincodeEnd": "795148"
+		},
+		{
+			"stateName": "MANIPUR",
+			"districtName": "CHURACHANDPUR",
+			"pincodeStart": "795101",
+			"pincodeEnd": "795149"
+		},
+		{
+			"stateName": "MANIPUR",
+			"districtName": "TAMENGLONG",
+			"pincodeStart": "795115",
+			"pincodeEnd": "795159"
+		},
+		{
+			"stateName": "MIZORAM",
+			"districtName": "AIZAWL",
+			"pincodeStart": "796001",
+			"pincodeEnd": "796410"
+		},
+		{
+			"stateName": "MIZORAM",
+			"districtName": "KOLASIB",
+			"pincodeStart": "796007",
+			"pincodeEnd": "796410"
+		},
+		{
+			"stateName": "MIZORAM",
+			"districtName": "MAMMIT",
+			"pincodeStart": "796017",
+			"pincodeEnd": "796751"
+		},
+		{
+			"stateName": "MIZORAM",
+			"districtName": "LUNGLEI",
+			"pincodeStart": "796101",
+			"pincodeEnd": "796770"
+		},
+		{
+			"stateName": "MIZORAM",
+			"districtName": "SERCHHIP",
+			"pincodeStart": "796161",
+			"pincodeEnd": "796370"
+		},
+		{
+			"stateName": "MIZORAM",
+			"districtName": "CHAMPHAI",
+			"pincodeStart": "796261",
+			"pincodeEnd": "796370"
+		},
+		{
+			"stateName": "MIZORAM",
+			"districtName": "LAWNGTLAI",
+			"pincodeStart": "796770",
+			"pincodeEnd": "796891"
+		},
+		{
+			"stateName": "MIZORAM",
+			"districtName": "SAIHA",
+			"pincodeStart": "796891",
+			"pincodeEnd": "796901"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "KOHIMA",
+			"pincodeStart": "797001",
+			"pincodeEnd": "797120"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "PEREN",
+			"pincodeStart": "797002",
+			"pincodeEnd": "797112"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "WOKHA",
+			"pincodeStart": "797099",
+			"pincodeEnd": "798601"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "DIMAPUR",
+			"pincodeStart": "797103",
+			"pincodeEnd": "797118"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "PHEK",
+			"pincodeStart": "797104",
+			"pincodeEnd": "797114"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "ZUNHEBOTTO",
+			"pincodeStart": "797104",
+			"pincodeEnd": "798627"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "MOKOKCHUNG",
+			"pincodeStart": "798601",
+			"pincodeEnd": "798623"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "TUENSANG",
+			"pincodeStart": "798601",
+			"pincodeEnd": "798625"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "MON",
+			"pincodeStart": "798602",
+			"pincodeEnd": "798622"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "KIPHIRE",
+			"pincodeStart": "798611",
+			"pincodeEnd": "798611"
+		},
+		{
+			"stateName": "NAGALAND",
+			"districtName": "LONGLENG",
+			"pincodeStart": "798618",
+			"pincodeEnd": "798625"
+		},
+		{
+			"stateName": "TRIPURA",
+			"districtName": "WEST TRIPURA",
+			"pincodeStart": "799001",
+			"pincodeEnd": "799212"
+		},
+		{
+			"stateName": "TRIPURA",
+			"districtName": "SOUTH TRIPURA",
+			"pincodeStart": "799013",
+			"pincodeEnd": "799157"
+		},
+		{
+			"stateName": "TRIPURA",
+			"districtName": "DHALAI",
+			"pincodeStart": "799203",
+			"pincodeEnd": "799290"
+		},
+		{
+			"stateName": "TRIPURA",
+			"districtName": "NORTH TRIPURA",
+			"pincodeStart": "799205",
+			"pincodeEnd": "799290"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "PATNA",
+			"pincodeStart": "800001",
+			"pincodeEnd": "848501"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "NALANDA",
+			"pincodeStart": "801301",
+			"pincodeEnd": "811315"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "BUXAR",
+			"pincodeStart": "802101",
+			"pincodeEnd": "802313"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "BHOJPUR",
+			"pincodeStart": "802112",
+			"pincodeEnd": "841312"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "KAIMUR (BHABUA)",
+			"pincodeStart": "802132",
+			"pincodeEnd": "821304"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "ROHTAS",
+			"pincodeStart": "802211",
+			"pincodeEnd": "821312"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "NAWADA",
+			"pincodeStart": "803109",
+			"pincodeEnd": "805141"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "GAYA",
+			"pincodeStart": "803116",
+			"pincodeEnd": "824302"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "ARWAL",
+			"pincodeStart": "804401",
+			"pincodeEnd": "824235"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "JEHANABAD",
+			"pincodeStart": "804401",
+			"pincodeEnd": "824233"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "SHEIKHPURA",
+			"pincodeStart": "811101",
+			"pincodeEnd": "811315"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "LAKHISARAI",
+			"pincodeStart": "811101",
+			"pincodeEnd": "811315"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "MUNGER",
+			"pincodeStart": "811105",
+			"pincodeEnd": "853204"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "BEGUSARAI",
+			"pincodeStart": "811106",
+			"pincodeEnd": "852161"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "BHAGALPUR",
+			"pincodeStart": "811211",
+			"pincodeEnd": "853205"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "JAMUI",
+			"pincodeStart": "811213",
+			"pincodeEnd": "811317"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "BANKA",
+			"pincodeStart": "811308",
+			"pincodeEnd": "853204"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "MADHEPURA",
+			"pincodeStart": "813204",
+			"pincodeEnd": "854304"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "AURANGABAD(BH)",
+			"pincodeStart": "824101",
+			"pincodeEnd": "824303"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "SARAN",
+			"pincodeStart": "841101",
+			"pincodeEnd": "841460"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "SIWAN",
+			"pincodeStart": "841203",
+			"pincodeEnd": "841509"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "GOPALGANJ",
+			"pincodeStart": "841203",
+			"pincodeEnd": "841508"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "MUZAFFARPUR",
+			"pincodeStart": "842001",
+			"pincodeEnd": "848125"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "VAISHALI",
+			"pincodeStart": "843101",
+			"pincodeEnd": "844509"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "SITAMARHI",
+			"pincodeStart": "843116",
+			"pincodeEnd": "847302"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "SHEOHAR",
+			"pincodeStart": "843128",
+			"pincodeEnd": "843334"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "MADHUBANI",
+			"pincodeStart": "843319",
+			"pincodeEnd": "847452"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "WEST CHAMPARAN",
+			"pincodeStart": "845101",
+			"pincodeEnd": "845459"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "EAST CHAMPARAN",
+			"pincodeStart": "845301",
+			"pincodeEnd": "845458"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "DARBHANGA",
+			"pincodeStart": "846001",
+			"pincodeEnd": "848213"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "SAMASTIPUR",
+			"pincodeStart": "846002",
+			"pincodeEnd": "848506"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "SUPAUL",
+			"pincodeStart": "847230",
+			"pincodeEnd": "854340"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "KHAGARIA",
+			"pincodeStart": "848201",
+			"pincodeEnd": "853203"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "SAHARSA",
+			"pincodeStart": "852106",
+			"pincodeEnd": "852221"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "PURNIA",
+			"pincodeStart": "853204",
+			"pincodeEnd": "855115"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "KATIHAR",
+			"pincodeStart": "853204",
+			"pincodeEnd": "855117"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "ARARIA",
+			"pincodeStart": "854102",
+			"pincodeEnd": "855107"
+		},
+		{
+			"stateName": "BIHAR",
+			"districtName": "KISHANGANJ",
+			"pincodeStart": "854108",
+			"pincodeEnd": "855117"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "SAHIBGANJ",
+			"pincodeStart": "813208",
+			"pincodeEnd": "816129"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "DUMKA",
+			"pincodeStart": "813208",
+			"pincodeEnd": "828104"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "GODDA",
+			"pincodeStart": "813208",
+			"pincodeEnd": "816129"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "DEOGHAR",
+			"pincodeStart": "813208",
+			"pincodeEnd": "828202"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "JAMTARA",
+			"pincodeStart": "813208",
+			"pincodeEnd": "816129"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "PAKUR",
+			"pincodeStart": "813208",
+			"pincodeEnd": "816120"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "GIRIDH",
+			"pincodeStart": "815301",
+			"pincodeEnd": "829144"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "PALAMAU",
+			"pincodeStart": "822101",
+			"pincodeEnd": "829204"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "GARHWA",
+			"pincodeStart": "822110",
+			"pincodeEnd": "829208"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "LATEHAR",
+			"pincodeStart": "822111",
+			"pincodeEnd": "829208"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "RAMGARH",
+			"pincodeStart": "825101",
+			"pincodeEnd": "829150"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "BOKARO",
+			"pincodeStart": "825102",
+			"pincodeEnd": "829301"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "CHATRA",
+			"pincodeStart": "825103",
+			"pincodeEnd": "829201"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "KODERMA",
+			"pincodeStart": "825109",
+			"pincodeEnd": "829117"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "HAZARIBAG",
+			"pincodeStart": "825109",
+			"pincodeEnd": "829209"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "DHANBAD",
+			"pincodeStart": "826001",
+			"pincodeEnd": "829301"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "RANCHI",
+			"pincodeStart": "829205",
+			"pincodeEnd": "835325"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "EAST SINGHBHUM",
+			"pincodeStart": "831001",
+			"pincodeEnd": "833221"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "WEST SINGHBHUM",
+			"pincodeStart": "831001",
+			"pincodeEnd": "835229"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "SERAIKELA-KHARSAWAN",
+			"pincodeStart": "831002",
+			"pincodeEnd": "833220"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "KHUNTI",
+			"pincodeStart": "834004",
+			"pincodeEnd": "835325"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "LOHARDAGA",
+			"pincodeStart": "834004",
+			"pincodeEnd": "835325"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "GUMLA",
+			"pincodeStart": "835103",
+			"pincodeEnd": "835325"
+		},
+		{
+			"stateName": "JHARKHAND",
+			"districtName": "SIMDEGA",
+			"pincodeStart": "835201",
+			"pincodeEnd": "835235"
+		}
+	]
+}
