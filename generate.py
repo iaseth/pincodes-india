@@ -67,8 +67,15 @@ def main():
 
 	print(f"Total rows found: {len(pincode_rows)}")
 	pincodes = [x[2] for x in pincode_rows]
-	pincodes = list(set(pincodes))
+	pincodes = sorted(list(set(pincodes)))
 	print(f"Unique pincodes found: {len(pincodes)}")
+
+	jo = {}
+	jo["pincodes"] = pincodes
+	pincodes_json_path = "pincodes.json"
+	with open(pincodes_json_path, "w") as f:
+		json.dump(jo, f, indent="\t")
+	print(f"Saved: {pincodes_json_path}")
 
 
 if __name__ == '__main__':
