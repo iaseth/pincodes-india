@@ -1,6 +1,6 @@
 {
   "name": "pincodes-india",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "This repository contains data of all valid pincodes in India sorted by state and district.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
